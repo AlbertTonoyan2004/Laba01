@@ -1,0 +1,6 @@
+/Users/albert/RiderProjects/Laba01/Laba01/bin/Debug/Laba01.exe
+/Users/albert/RiderProjects/Laba01/Laba01/bin/Debug/Laba01.pdb
+/Users/albert/RiderProjects/Laba01/Laba01/obj/Debug/Laba01.csproj.AssemblyReference.cache
+/Users/albert/RiderProjects/Laba01/Laba01/obj/Debug/Laba01.csproj.CoreCompileInputs.cache
+/Users/albert/RiderProjects/Laba01/Laba01/obj/Debug/Laba01.exe
+/Users/albert/RiderProjects/Laba01/Laba01/obj/Debug/Laba01.pdb
